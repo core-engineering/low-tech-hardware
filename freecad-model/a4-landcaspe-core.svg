@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg129"
+   width="297mm"
+   height="210mm"
+   version="1.1"
+   viewBox="0 0 297 210"
+   sodipodi:docname="A4_Landscape_ISO7200_Core.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:freecad="http://www.freecad.org/wiki/index.php?title=Svg_Namespace">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.2699352"
+     inkscape:cx="618.14177"
+     inkscape:cy="542.15364"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg129" />
+  <metadata
+     id="metadata135">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="drawing-border"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="miter"
+     stroke-width=".35">
+    <rect
+       id="rect2"
+       x="7"
+       y="15"
+       width="283"
+       height="188" />
+  </g>
+  <g
+     id="titleblock-structure"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="miter"
+     stroke-width=".35">
+    <rect
+       id="rect5"
+       x="150"
+       y="169"
+       width="140"
+       height="34" />
+    <path
+       id="path7"
+       d="m150 177h140" />
+    <!-- upper horizontal Separator Titleblock -->
+    <path
+       id="path9"
+       d="m150 195h87" />
+    <!-- lower horizontal Separator Document-Type -->
+    <path
+       id="path11"
+       d="m150 199h140" />
+    <!-- lower horizontal Separator Copyright -->
+    <path
+       id="path13"
+       d="m195 169v8" />
+    <!-- Separator Author / Owner -->
+    <path
+       id="path15"
+       d="m237 169v30" />
+    <!-- Separator Title / Liste RH -->
+    <path
+       id="path17"
+       d="m267 169v8" />
+    <!-- Separator Scale / Sheet -->
+    <path
+       id="path19"
+       d="m237 185h53" />
+    <!-- Separator Part / Drawing-Nr -->
+    <path
+       id="path21"
+       d="m237 191h53" />
+    <!-- Separator DRW-Info / Revision -->
+    <path
+       id="path23"
+       d="m267 191v8" />
+    <!-- Separator Date / Revision -->
+  </g>
+  <g
+     id="titleblock-text-non-editable"
+     font-family="tahoma"
+     font-size="3px">
+    <text
+       id="text26"
+       x="151"
+       y="172">Author:</text>
+    <text
+       id="text28"
+       x="151"
+       y="176">Appr.:</text>
+    <text
+       id="text30"
+       x="196"
+       y="172">Legal owner:</text>
+    <text
+       id="text32"
+       x="151"
+       y="181">TITLE:</text>
+    <text
+       id="text34"
+       x="151"
+       y="198">Document type:</text>
+    <text
+       id="text36"
+       x="268"
+       y="172">Sheet:</text>
+    <text
+       id="text38"
+       x="268"
+       y="176">Size:</text>
+    <text
+       id="text40"
+       x="238"
+       y="172">Scale:</text>
+    <text
+       id="text42"
+       x="238"
+       y="176">Toler.:</text>
+    <text
+       id="text44"
+       x="238"
+       y="180">Part material:</text>
+    <text
+       id="text46"
+       x="238"
+       y="184">Part number:</text>
+    <text
+       id="text48"
+       x="238"
+       y="189">Drawing no.:</text>
+    <text
+       id="text50"
+       x="238"
+       y="194">Date:</text>
+    <text
+       id="text52"
+       x="268"
+       y="194">Revision:</text>
+  </g>
+  <g
+     id="titleblock-text-editable"
+     font-family="tahoma"
+     font-size="3px">
+    <text
+       id="text57"
+       x="162"
+       y="172"
+       freecad:editable="AUTHOR_NAME"><tspan
+         id="tspan55">AUTHOR NAME</tspan></text>
+    <text
+       id="text61"
+       x="162"
+       y="176"
+       freecad:editable="APPROVER_NAME"><tspan
+         id="tspan59">APPROVER NAME</tspan></text>
+    <text
+       id="text65"
+       x="197"
+       y="176"
+       freecad:editable="OWNER_NAME"><tspan
+         id="tspan63">OWNER NAME</tspan></text>
+    <text
+       id="text69"
+       x="152"
+       y="185"
+       freecad:editable="TITLELINE-1"><tspan
+         id="tspan67">FreeCAD</tspan></text>
+    <text
+       id="text73"
+       x="152"
+       y="189"
+       freecad:editable="TITLELINE-2"><tspan
+         id="tspan71" /></text>
+    <text
+       id="text77"
+       x="152"
+       y="193"
+       freecad:editable="TITLELINE-3"><tspan
+         id="tspan75" /></text>
+    <text
+       id="text81"
+       x="174"
+       y="198"
+       freecad:editable="DOCUMENT_TYPE"><tspan
+         id="tspan79">Mechanical assembly drawing</tspan></text>
+    <text
+       id="text85"
+       x="277"
+       y="172"
+       freecad:editable="SHEET"><tspan
+         id="tspan83">99 of 99</tspan></text>
+    <text
+       id="text89"
+       x="247"
+       y="172"
+       freecad:editable="SCALE"><tspan
+         id="tspan87">M x:x</tspan></text>
+    <text
+       id="text93"
+       x="247"
+       y="176"
+       freecad:editable="TOLERANCE"><tspan
+         id="tspan91">+/- ?</tspan></text>
+    <text
+       id="text97"
+       x="257"
+       y="180"
+       freecad:editable="PM"><tspan
+         id="tspan95">PM</tspan></text>
+    <text
+       id="text101"
+       x="257"
+       y="184"
+       freecad:editable="PN"><tspan
+         id="tspan99">PN</tspan></text>
+    <text
+       id="text105"
+       x="257"
+       y="189"
+       freecad:editable="DN"><tspan
+         id="tspan103">DN</tspan></text>
+    <text
+       id="text109"
+       x="239"
+       y="198"
+       freecad:editable="DATE"><tspan
+         id="tspan107">YYYY-MM-DD</tspan></text>
+    <text
+       id="text113"
+       x="269"
+       y="198"
+       freecad:editable="REVISION"><tspan
+         id="tspan111">REV A</tspan></text>
+    <text
+       id="text117"
+       x="277"
+       y="176"
+       freecad:editable="SIZE"><tspan
+         id="tspan115">A4</tspan></text>
+    <text
+       id="text121"
+       x="151"
+       y="202"
+       freecad:editable="RIGHTS"><tspan
+         id="tspan119"> This hardware © 2024 by Camille Martin is licensed under CC BY-SA 4.0 </tspan></text>
+    <g
+       style="stroke:#000000"
+       transform="matrix(0.04009027,0,0,0.04009027,210.0058,175.24854)"
+       id="g5285-3-9-7">
+      <g
+         style="stroke:#000000"
+         id="g5055-6-1-4">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 538.021,151.873 -9.968,-0.797 -9.968,-0.796 -9.969,-0.796 -9.968,-0.797 -9.968,-0.796 -9.968,-0.796 -8.111,-0.648 -9.424,3.344 -9.424,3.344 -9.424,3.345 -9.424,3.344 -9.425,3.344 -9.424,3.345 -9.424,3.344 -9.424,3.345 -1.696,0.601 -3.149,9.492 -3.149,9.491 -3.149,9.491 -3.149,9.491 -3.149,9.491 -3.149,9.492 -3.149,9.491 -1.417,4.271 -0.495,9.988 -0.495,9.988 -0.495,9.988 -0.495,9.987 -0.495,9.988 -0.495,9.988 -0.495,9.988 -0.186,3.754 7.532,6.578 7.532,6.578 7.532,6.578 7.532,6.578 7.532,6.578 7.532,6.578 7.532,6.578 7.532,6.578 1.601,1.398 9.618,2.737 9.619,2.736 9.618,2.737 9.618,2.736 9.618,2.737 9.619,2.737 7.782,2.214 9.048,-4.258 9.048,-4.258 9.048,-4.258 9.048,-4.259 9.049,-4.258 9.048,-4.258 9.048,-4.258 9.048,-4.258 2.987,-1.406 4.518,-8.921 4.518,-8.921 4.519,-8.921 4.518,-8.921 4.518,-8.921 4.519,-8.921 4.518,-8.921 2.716,-5.362 -1.018,-9.948 -1.018,-9.948 -1.018,-9.948 -1.018,-9.948 -1.018,-9.949 -1.018,-9.948 -1.018,-9.948 -0.528,-5.168 -6.854,-7.283 -6.853,-7.282 -6.853,-7.283 -6.853,-7.282 -6.853,-7.283 -6.853,-7.282 -6.853,-7.283 -6.853,-7.282 -2.466,-2.62"
+           id="path4997-1-4-3" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 503.563,186.05 7.1,-7.042 7.1,-7.042 7.1,-7.042 7.1,-7.042 6.058,-6.009"
+           id="path5005-2-9-1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 393.012,173.803 4.621,8.868 4.621,8.869 4.541,8.713"
+           id="path5007-9-1-4" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 388.614,297.106 1.845,-9.828 1.845,-9.829 1.845,-9.828 1.845,-9.828 1.845,-9.829 1.845,-9.828 1.845,-9.828 1.845,-9.829 1.845,-9.828 1.576,-8.398 9.894,-1.452 9.894,-1.452 9.894,-1.452 9.894,-1.452 9.894,-1.453 9.894,-1.452 9.894,-1.452 9.894,-1.452 9.894,-1.453 7.722,-1.133 4.277,9.039 4.277,9.039 4.277,9.04 4.277,9.039 4.277,9.039 4.277,9.039 4.278,9.039 4.277,9.04 4.277,9.039 4.206,8.89"
+           id="path5009-3-0-6" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 473.741,345.153 7.252,-6.886 7.252,-6.886 7.252,-6.885 7.252,-6.886 7.251,-6.886 7.252,-6.885 7.252,-6.886 7.252,-6.885 7.251,-6.886 7.256,-6.889 9.808,1.948 9.809,1.949 9.808,1.948 9.808,1.949 9.808,1.949 7.662,1.522"
+           id="path5013-1-7-9" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 365.901,318.182 7.33,-6.802 7.33,-6.802 7.331,-6.802 0.722,-0.67 8.708,4.915 8.709,4.915 8.709,4.916 8.708,4.915 8.709,4.915 8.709,4.915 8.708,4.916 8.709,4.915 8.709,4.915 6.749,3.81 3.928,9.196 3.927,9.197 3.927,9.196 3.927,9.197 3.8,8.899"
+           id="path5015-9-5-4" />
+      </g>
+      <g
+         style="stroke:#000000"
+         id="g5047-4-8-2">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 559.616,238.137 -8.809,-4.733 -8.809,-4.733 -8.809,-4.733 -8.809,-4.733 -8.809,-4.733 -8.809,-4.733 -8.809,-4.733 -8.809,-4.733 -1.561,-0.838"
+           id="path4999-7-7-2" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 428.93,256.116 7.191,-6.949 7.191,-6.949 7.191,-6.949 7.191,-6.95 7.191,-6.949 7.191,-6.949 7.191,-6.949 7.19,-6.949 1.126,-1.088 -3.133,-9.497 -3.133,-9.496 -3.133,-9.497 -3.133,-9.496 -3.133,-9.497 -1.817,-5.505"
+           id="path5001-8-0-6" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 595.312,212.753 -8.15,5.795 -8.149,5.796 -8.15,5.795 -8.149,5.795 -3.098,2.203 -1.84,9.829 -1.841,9.829 -1.84,9.829 -1.84,9.83 -1.841,9.829 -1.84,9.829 -1.841,9.829 -1.84,9.829 -0.59,3.15"
+           id="path5003-4-4-4" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 463.085,330.104 -4.191,-9.079 -4.191,-9.079 -4.191,-9.08 -4.192,-9.079 -4.191,-9.079 -4.191,-9.079 -4.191,-9.08 -4.192,-9.079 -0.625,-1.354 -9.814,-1.918 -9.814,-1.917 -9.815,-1.918 -9.814,-1.918 -9.815,-1.918 -10.306,-2.014"
+           id="path5011-5-8-1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 568.622,355.367 -5.658,-8.246 -5.657,-8.246 -5.657,-8.246 -5.657,-8.246 -1.69,-2.463 -9.922,1.244 -9.923,1.245 -9.922,1.244 -9.922,1.244 -9.922,1.244 -9.923,1.244 -9.922,1.245 -9.922,1.244 -1.84,0.23 -6.428,7.661 -6.428,7.66 -6.428,7.66 -6.428,7.661 -6.428,7.66 -3.187,3.798"
+           id="path5017-0-0-2" />
+      </g>
+      <g
+         style="stroke:#000000"
+         id="g5197-3-4-8">
+        <circle
+           r="6.5539808"
+           cy="199.9483"
+           cx="406.92068"
+           id="path5072-61-2-8"
+           style="opacity:1;fill:#000000;stroke:#000000;stroke-width:3.34842;stroke-miterlimit:4;stroke-dasharray:none" />
+        <circle
+           r="6.5539808"
+           cy="174.37968"
+           cx="393.97455"
+           id="path5072-2-0-9-9"
+           style="opacity:1;fill:#000000;stroke:#000000;stroke-width:3.34842;stroke-miterlimit:4;stroke-dasharray:none" />
+        <circle
+           r="6.5539808"
+           cy="297.24298"
+           cx="389.74475"
+           id="path5072-7-6-6-2"
+           style="opacity:1;fill:#000000;stroke:#000000;stroke-width:3.34842;stroke-miterlimit:4;stroke-dasharray:none" />
+        <circle
+           r="6.5539808"
+           cy="316.63315"
+           cx="367.01535"
+           id="path5072-0-3-1-8"
+           style="opacity:1;fill:#000000;stroke:#000000;stroke-width:3.34842;stroke-miterlimit:4;stroke-dasharray:none" />
+        <circle
+           r="6.5539808"
+           cy="244.61247"
+           cx="370.0242"
+           id="path5072-9-2-0-8"
+           style="opacity:1;fill:#000000;stroke:#000000;stroke-width:3.34842;stroke-miterlimit:4;stroke-dasharray:none" />
+        <circle
+           r="6.5539808"
+           cy="344.44501"
+           cx="473.71829"
+           id="path5072-3-0-4-8"
+           style="opacity:1;fill:#000000;stroke:#000000;stroke-width:3.34842;stroke-miterlimit:4;stroke-dasharray:none" />
+        <circle
+           r="6.5539808"
+           cy="370.26871"
+           cx="427.75479"
+           id="path5072-6-6-2-6"
+           style="opacity:1;fill:#000000;stroke:#000000;stroke-width:3.34842;stroke-miterlimit:4;stroke-dasharray:none" />
+        <circle
+           r="6.5539808"
+           cy="389.03687"
+           cx="492.6676"
+           id="path5072-06-1-22-8"
+           style="opacity:1;fill:#000000;stroke:#000000;stroke-width:3.34842;stroke-miterlimit:4;stroke-dasharray:none" />
+        <circle
+           r="6.5539808"
+           cy="355.95825"
+           cx="568.15015"
+           id="path5072-26-5-0-3"
+           style="opacity:1;fill:#000000;stroke:#000000;stroke-width:3.34842;stroke-miterlimit:4;stroke-dasharray:none" />
+        <circle
+           r="6.5539808"
+           cy="286.81802"
+           cx="601.87579"
+           id="path5072-1-5-5-8"
+           style="opacity:1;fill:#000000;stroke:#000000;stroke-width:3.34842;stroke-miterlimit:4;stroke-dasharray:none" />
+        <circle
+           r="6.5539808"
+           cy="213.60889"
+           cx="595.15533"
+           id="path5072-8-4-52-3"
+           style="opacity:1;fill:#000000;stroke:#000000;stroke-width:3.34842;stroke-miterlimit:4;stroke-dasharray:none" />
+        <circle
+           r="6.5539808"
+           cy="276.40424"
+           cx="546.17981"
+           id="path5072-79-7-90-3"
+           style="opacity:1;fill:#000000;stroke:#000000;stroke-width:3.34842;stroke-miterlimit:4;stroke-dasharray:none" />
+        <circle
+           r="6.5539808"
+           cy="185.68826"
+           cx="504.07004"
+           id="path5072-20-6-28-3"
+           style="opacity:1;fill:#000000;stroke:#000000;stroke-width:3.34842;stroke-miterlimit:4;stroke-dasharray:none" />
+        <circle
+           r="6.5539808"
+           cy="152.40007"
+           cx="537.06598"
+           id="path5072-23-5-3-8"
+           style="opacity:1;fill:#000000;stroke:#000000;stroke-width:3.34842;stroke-miterlimit:4;stroke-dasharray:none" />
+        <circle
+           r="6.5539808"
+           cy="147.6575"
+           cx="471.61642"
+           id="path5072-75-6-80-0"
+           style="opacity:1;fill:#000000;stroke:#000000;stroke-width:3.34842;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
+      <circle
+         style="opacity:1;fill:#000000;stroke:#000000;stroke-width:1.48819;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path5072-92-93-4-4"
+         cx="429.20142"
+         cy="255.91132"
+         r="2.9128802" />
+      <circle
+         style="opacity:1;fill:#000000;stroke:#000000;stroke-width:1.48819;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path5072-92-2-7-0-7"
+         cx="488.08405"
+         cy="199.54427"
+         r="2.9128802" />
+      <circle
+         style="opacity:1;fill:#000000;stroke:#000000;stroke-width:1.48819;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path5072-92-8-4-9-6"
+         cx="559.68506"
+         cy="237.4921"
+         r="2.9128802" />
+      <circle
+         style="opacity:1;fill:#000000;stroke:#000000;stroke-width:1.48819;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path5072-92-9-5-1-8"
+         cx="543.91315"
+         cy="319.75854"
+         r="2.9128802" />
+      <circle
+         style="opacity:1;fill:#000000;stroke:#000000;stroke-width:1.48819;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path5072-92-7-2-9-9"
+         cx="463.56003"
+         cy="330.05698"
+         r="2.9128802" />
+    </g>
+  </g>
+  <!-- Set display:none to hide FreeCAD Logo or remove this and next 4 lines from this code -->
+</svg>
