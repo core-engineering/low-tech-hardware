@@ -14,8 +14,10 @@ Ce dépot est une tentative de centraliser, de mutualiser et de diffuser des pla
 
 Sauf mention explicite contraire, tous les documents techniques sont sous license Creative Commons Attribution-ShareAlike 4.0 ou CC BY-SA 4.0 ([Creative Commons](https://creativecommons.org/)). Cela signifie que vous pouvez utiliser, modifier même pour des applications commerciales les documents tant que la license reste la même et que l'attribution à l'auteur original est faite.
 
-## Outils
+## Outils pour la boulangerie
 
 - [Petite spatule de boulanger](./small-baker-spatula/small-baker-spatula.pdf) : cette petite spatule peut être utilisée pendant toutes les opérations manuelles au pétrin
 
-![Petite spatule de boulanger](./small-baker-spatula/small-baker-spatula-small.jpg)
+<img src='small-baker-spatula/small-baker-spatula-small.jpg' width='100'>
+
+## Outils pour la meunerie
